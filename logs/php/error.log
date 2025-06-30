@@ -1,0 +1,133 @@
+[02-Apr-2025 09:10:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[02-Apr-2025 09:10:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[02-Apr-2025 09:10:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[02-Apr-2025 09:10:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[02-Apr-2025 09:10:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[02-Apr-2025 10:05:31 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[02-Apr-2025 10:05:31 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[02-Apr-2025 10:05:31 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[02-Apr-2025 10:05:31 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[02-Apr-2025 10:05:31 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[04-Apr-2025 09:22:35 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 793
+[04-Apr-2025 09:22:35 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 793
+[04-Apr-2025 09:22:48 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 793
+[09-Apr-2025 08:41:26 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 38
+[09-Apr-2025 08:41:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[09-Apr-2025 08:41:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[09-Apr-2025 08:41:30 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 38
+[09-Apr-2025 08:41:30 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 38
+[09-Apr-2025 08:41:36 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 38
+[09-Apr-2025 08:41:53 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 38
+[09-Apr-2025 08:43:37 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:43:41 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:43:41 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:43:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:43:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:43:46 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:43:54 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:04 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:04 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:05 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:05 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:05 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:05 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:05 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:06 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:06 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:06 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:06 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:06 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:07 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:07 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 34
+[09-Apr-2025 08:44:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentytwentyone_the_html_classes() in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php:3
+Stack trace:
+#0 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(745): load_template('C:\\Users\\unrea\\...', true, Array)
+#2 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra\page.php(20): get_header()
+#4 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\unrea\\...')
+#5 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-blog-header.php(19): require_once('C:\\Users\\unrea\\...')
+#6 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\index.php(17): require('C:\\Users\\unrea\\...')
+#7 {main}
+  thrown in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php on line 3
+[09-Apr-2025 08:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentytwentyone_the_html_classes() in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php:3
+Stack trace:
+#0 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(745): load_template('C:\\Users\\unrea\\...', true, Array)
+#2 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra\page.php(20): get_header()
+#4 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\unrea\\...')
+#5 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-blog-header.php(19): require_once('C:\\Users\\unrea\\...')
+#6 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\index.php(17): require('C:\\Users\\unrea\\...')
+#7 {main}
+  thrown in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php on line 3
+[09-Apr-2025 08:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentytwentyone_the_html_classes() in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php:3
+Stack trace:
+#0 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(745): load_template('C:\\Users\\unrea\\...', true, Array)
+#2 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra\page.php(20): get_header()
+#4 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\unrea\\...')
+#5 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-blog-header.php(19): require_once('C:\\Users\\unrea\\...')
+#6 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\index.php(17): require('C:\\Users\\unrea\\...')
+#7 {main}
+  thrown in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php on line 3
+[09-Apr-2025 08:45:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentytwentyone_the_html_classes() in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php:3
+Stack trace:
+#0 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(745): load_template('C:\\Users\\unrea\\...', true, Array)
+#2 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra\page.php(20): get_header()
+#4 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\unrea\\...')
+#5 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-blog-header.php(19): require_once('C:\\Users\\unrea\\...')
+#6 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\index.php(17): require('C:\\Users\\unrea\\...')
+#7 {main}
+  thrown in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php on line 3
+[09-Apr-2025 08:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentytwentyone_the_html_classes() in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php:3
+Stack trace:
+#0 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(745): load_template('C:\\Users\\unrea\\...', true, Array)
+#2 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra\page.php(20): get_header()
+#4 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\unrea\\...')
+#5 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-blog-header.php(19): require_once('C:\\Users\\unrea\\...')
+#6 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\index.php(17): require('C:\\Users\\unrea\\...')
+#7 {main}
+  thrown in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php on line 3
+[09-Apr-2025 08:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentytwentyone_the_html_classes() in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php:3
+Stack trace:
+#0 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template.php(745): load_template('C:\\Users\\unrea\\...', true, Array)
+#2 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra\page.php(20): get_header()
+#4 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\unrea\\...')
+#5 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-blog-header.php(19): require_once('C:\\Users\\unrea\\...')
+#6 C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\index.php(17): require('C:\\Users\\unrea\\...')
+#7 {main}
+  thrown in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\header.php on line 3
+[09-Apr-2025 09:15:22 UTC] PHP Parse error:  Unclosed '{' on line 28 in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 52
+[09-Apr-2025 09:15:22 UTC] PHP Parse error:  Unclosed '{' on line 28 in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 52
+[09-Apr-2025 09:15:57 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 28
+[09-Apr-2025 09:15:57 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 28
+[09-Apr-2025 09:15:58 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 28
+[09-Apr-2025 09:16:00 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 28
+[09-Apr-2025 09:16:01 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 28
+[14-Apr-2025 14:45:15 UTC] PHP Parse error:  syntax error, unexpected identifier "menu" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 26
+[14-Apr-2025 14:45:16 UTC] PHP Parse error:  syntax error, unexpected identifier "menu" in C:\Users\unrea\Desktop\Formation web OCR\Projets\Projet_6\app\public\wp-content\themes\astra-child\functions.php on line 26
+[14-Apr-2025 16:01:02 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[20-Apr-2025 21:35:43 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-May-2025 12:28:48 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-May-2025 14:57:04 UTC] Erreur d’événement de replanification de tâche pour le crochet elementor_1_elementor_updater_cron. Code d’erreur : invalid_schedule. Message d’erreur : L’évènement planifié n’existe pas.. Données : {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[02-Jun-2025 07:51:29 UTC] PHP Warning:  Undefined array key "url" in C:\Users\Bilel\Desktop\Formation web OCR\Projets\Projet_61\app\public\wp-content\plugins\wpforms-lite\src\Forms\IconChoices.php on line 127
+[02-Jun-2025 07:51:29 UTC] PHP Warning:  Undefined array key "path" in C:\Users\Bilel\Desktop\Formation web OCR\Projets\Projet_61\app\public\wp-content\plugins\wpforms-lite\src\Forms\IconChoices.php on line 128
+[02-Jun-2025 12:20:03 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:20:03 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:20:08 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:20:21 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:20:21 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:20:22 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:21:30 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:21:30 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:21:30 UTC] PHP Warning:  Undefined array key "mega-menu" in C:\Users\Bilel\Local Sites\plantyv2\app\public\wp-content\plugins\elementor\modules\ai\connect\ai.php on line 794
+[02-Jun-2025 12:30:21 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[25-Jun-2025 18:50:54 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}

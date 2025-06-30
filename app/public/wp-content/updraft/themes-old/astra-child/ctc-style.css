@@ -1,0 +1,1134 @@
+/* 
+ * CTC Separate Stylesheet
+ * Updated: 2025-04-02 12:05:31
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+
+ body {
+   font-family: 'Syne', sans-serif;
+   margin-left: 0;
+   margin-right: 0;
+   background-color: white !important;
+  
+ }
+
+
+ 
+
+.post-128 header {
+
+  display: none;
+}
+ :root {
+   --color-main: #dc9f96;
+   --color-secondary: #e3d9d0;
+   --color-background: #ece2da;
+   --color-accent: #3b8e46;
+ }
+ 
+ .ast-container, .ast-container-fluid{
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+ }
+
+header{ 
+   position: relative;
+  height: 80px;
+}
+
+  /* Logo */
+  #ast-desktop-header > div > div > div > div > div.site-header-above-section-left.site-header-section.ast-flex.site-header-section-left > div > div > span > a > img {
+
+
+    top: 31px;
+    left: 37px;
+}
+
+#menu-item-122 > a {
+  color: #000000;
+}
+
+#menu-item-124 {
+  background-color: #DC9F96;
+  text-align: center;
+}
+#menu-item-124 > a {
+  color: white !important;
+  padding-left: 70px;
+  padding-right: 70px;
+  height: 80px;
+ 
+  
+}
+
+#menu-item-124:hover {
+  background-color: #C02E44 !important; 
+}
+
+#masthead .ast-container, .site-header-focus-item , .ast-breadcrumbs-wrapper {
+
+  padding-left: 0;
+  padding-right: 0;
+}
+.ast-hfb-header .site-header {
+  margin: 0 !important;
+}
+
+#ast-hf-menu-1 > li.menu-item.menu-item-admin > a{
+color: black;
+text-decoration: none;
+text-align: center;
+display: block;
+padding-left: 40px;
+padding-right: 40px;
+}
+
+/* Centrer le lien Admin dans le menu */
+.menu-item-admin {
+  text-align: center !important;
+}
+
+.menu-item-admin a {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Pour cibler spécifiquement le lien Admin */
+li.menu-item a:contains("Admin") {
+  text-align: center !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+
+.div_can h1 {
+  font-family: 'Syne', sans-serif !important;
+  font-size: 38px !important;
+  font-weight: 800;
+  line-height: 46px;
+  letter-spacing: 1.2px;
+  text-align: center;
+  color: #3b8e46 !important;
+  width: 70% !important;
+  margin: auto !important;
+  text-transform: uppercase;
+
+  }
+
+.can_contenair {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+
+#post-128 > div > div.wp-block-group.div_can.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex{
+   max-width:100% !important;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  background-color:var(--color-background);
+  width: 100% !important;
+  border-bottom-left-radius: 200px 40px;
+  border-bottom-right-radius: 200px 40px;
+}
+
+.flower_right { 
+  position: absolute;
+  right: 0;
+  top: 100px;
+  width: 300px;
+  height: auto;
+  z-index: 1;
+}
+.flower_left   { 
+  position: absolute;
+  left: 0;
+  top: 100px;
+  width: 300px;
+  height: auto;
+  z-index: 1;}
+
+  
+
+  .canette { 
+    position: absolute;
+    left: 50%;
+    top: 50px;
+    transform: translateX(-50%); 
+    width: 300px;
+    height: 400px;
+    z-index: 2}
+
+    #post-128 .plante  {
+      
+      background-color: white !important;
+      max-width: 100% !important;
+}
+    
+    
+
+    #post-128 > div >.plante h2{
+      font-family: "syne", sans-serif !important;
+      color: #3b8e46 !important; 
+      font-style: normal;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-top: 40px;
+
+
+  }
+
+  #post-128 > div >.plante p {
+    color: #000000 !important;
+    width: 497;
+    height: 120;
+    top: 1141px;
+    left: 472px;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 40px;    
+  }
+
+  #post-128 > div > div:nth-child(3) > h2 {
+    font-family: "syne", sans-serif !important;
+    color: #D2776A !important; 
+    font-style: normal;
+    width: 287;
+    height: 36;
+    top: 1401px;
+    left: 576px;
+    font-weight: 800;
+    line-height: 1.2;
+    text-align: center;
+    ;
+  }
+
+  #post-128 > div > div:nth-child(3) > p {
+
+    color: #000000 !important;
+    width: 497;
+    height: 120;
+    top: 1141px;
+    left: 472px;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  #post-128 > div > div:nth-child(3) > figure.wp-block-gallery.has-nested-images.columns-default.is-cropped.wp-block-gallery-2.is-layout-flex.wp-block-gallery-is-layout-flex > figure:nth-child(1) > img {
+    position: relative;
+    display: inline-block;
+  margin-bottom: 50px;
+max-width: 60% !important;
+margin-left: 258px;}
+
+  #post-128 > div > div:nth-child(3) > h3.wp-block-heading.fraise {
+    position: absolute;
+    top: 34%;
+    left: 23%;
+    transform: translate(0, 0);
+    color: white;
+    text-transform: uppercase;
+    font-size: 3.5rem !important;
+    font-weight: 800;
+
+    
+    }
+
+    #post-128 > div > div:nth-child(3) > figure.wp-block-gallery.has-nested-images.columns-default.is-cropped.wp-block-gallery-2.is-layout-flex.wp-block-gallery-is-layout-flex > figure:nth-child(2) > img {
+      position: relative;
+      display: inline-block;
+  margin-bottom: 50px;
+  max-width: 60% !important;
+  }
+
+  #post-128 > div > div:nth-child(3) > h3.wp-block-heading.pamplemousse{
+    position: absolute;
+    top: 31%;
+    left: 51%;
+    transform: translate(0, 0);
+    color: white;
+    text-transform: uppercase;
+    font-size: 3.4rem !important;
+    font-weight: 800;
+   
+    
+    }
+
+    #post-128 > div > div:nth-child(3) > figure.wp-block-gallery.has-nested-images.columns-default.is-cropped.wp-block-gallery-3.is-layout-flex.wp-block-gallery-is-layout-flex > figure:nth-child(1) > img {
+      position: relative;
+      display: inline-block;
+  margin-bottom: 50px;
+  max-width: 60% !important;
+  margin-left: 258px;      
+  }
+
+  #post-128 > div > div:nth-child(3) > h3.wp-block-heading.framboise {
+    position: absolute;
+    top: 67%;
+    left: 21%;
+    transform: translate(0, 0);
+    color: white;
+    text-transform: uppercase;
+    font-size: 2.5rem !important;
+    font-weight: 800;
+}
+    
+    
+
+    #post-128 > div > div:nth-child(3) > figure.wp-block-gallery.has-nested-images.columns-default.is-cropped.wp-block-gallery-3.is-layout-flex.wp-block-gallery-is-layout-flex > figure:nth-child(2) > img{
+      position: relative;
+      display: inline-block;
+  margin-bottom: 50px;
+  max-width: 60% !important;      
+  }
+
+  #post-128 > div > div:nth-child(3) > h3.wp-block-heading.citron {
+    position: absolute;
+    top: 66%;
+    left: 52%;
+    transform: translate(0, 0);
+    color: white;
+    text-transform: uppercase;
+    font-size: 3.5rem !important;
+    font-weight: 800;
+
+    
+    }
+  
+    #post-128 > div > div:nth-child(3) {
+      max-width:100% !important;
+      /* margin-left: auto; */
+      /* margin-right: auto; */
+      background-color:var(--color-background);
+      width: 100% !important;
+      border-bottom-left-radius: 200px 20px;
+      border-bottom-right-radius: 200px 20px;
+    }
+
+    #post-128 > div > div:nth-child(3) > div > div > div > a{
+      width: 198px;
+      height: 55px;
+      border-style: none;
+      background-color: #e0b9b4 !important;
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 37px;
+      font-family: 'Syne', sans-serif;
+      color: white !important;
+      padding: 9px 50px;
+      text-decoration: none !important;
+      text-transform: none;
+      border-radius: 5px !important;
+    }
+
+    #post-128 > div > div:nth-child(3) > div > div > div > a:hover{
+      background-color: #c02e44 !important;
+      text-decoration: none !important;
+      }
+    
+      #post-128 > div > div.wp-block-group.container-avis.is-layout-constrained.wp-block-group-is-layout-constrained > div:nth-child(1) > h2 {
+        width: 582;
+        height: 36;
+        font-family: Syne !important;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        align-items: center;
+        vertical-align: middle;
+        text-transform: uppercase;
+        color: #3B8E46 !important;}
+
+
+
+
+#post-128 > div > div.wp-block-group.citation1.is-layout-constrained.wp-block-group-is-layout-constrained {
+  background-color: white !important;
+  max-width: 100% !important;
+  display: flex;
+  justify-content: space-between;
+  width: 24%; 
+
+
+}    
+
+#post-128 > div > div.wp-block-group.container-avis.is-layout-flow.wp-block-group-is-layout-flow > div.wp-block-group.avis_img.is-nowrap.is-layout-flex.wp-container-core-group-is-layout-ad2f72ca.wp-block-group-is-layout-flex{
+  margin-left: 150px;
+}
+
+.container-avis {
+  background-color: white;
+  max-width: 100% !important;
+}
+
+.container-avis h2 {
+  width: 582px;
+  height: 36px;
+  top: 2345px;
+  left: 428px;
+  font-family: Syne;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #3B8E46 !important;
+  padding-bottom: 100px;
+}
+
+.container-avis h4 {
+  width: 107px;
+  height: 36px;
+  top: 2483px;
+  left: 279px;
+  font-family: Syne;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #3B8E46 !important;                  
+}
+
+.container-avis p {
+  width: 196px;
+  height: 57px;
+  top: 2530px;
+  left: 281px;
+  font-family: Syne;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #000000 !important;
+  text-align: start;
+}
+
+.un-avis-container {
+  width: 30%;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.image-container img {
+  max-width: 70%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+#post-128 > div > div.wp-block-group.container-avis.is-layout-flow.wp-block-group-is-layout-flow > div.wp-block-group.avis_img.is-nowrap.is-layout-flex.wp-container-core-group-is-layout-14.wp-block-group-is-layout-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+}
+
+
+#post-128 > div > div.wp-block-group.container-avis.is-layout-flow.wp-block-group-is-layout-flow > figure > img {
+  width: 100%;
+  max-width: 100%; 
+  height: auto;
+  object-fit: cover;
+  margin-bottom: -48px;
+  margin-top: 135px;
+  transform: scale(1.1); 
+}
+
+
+#post-128 > div > div.wp-block-group.container-avis.is-layout-flow.wp-block-group-is-layout-flow > figure {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.contact{  
+  
+  max-width: 100% !important;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  background-color: var(--color-background);
+  width: 100% !important;
+  border-bottom-left-radius: 200px 40px;
+  border-bottom-right-radius: 200px 40px;}
+
+
+  /* page nous contacter */
+
+  
+  .ast-single-post .entry-header.ast-header-without-markup, .ast-single-post .entry-header.ast-no-title.ast-no-thumbnail {
+    background-color: var(--color-background);
+  height: 60px;}
+
+
+
+#post-112 > div > div.wp-block-group.contact.is-layout-constrained.wp-block-group-is-layout-constrained{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+#post-112 > div > div.wp-block-group.contact.is-layout-constrained.wp-block-group-is-layout-constrained > figure > img{
+  position: absolute;
+  width: 19%;
+  height: auto;
+  width: 170px !important;
+  height: 169px !important;
+  top: -45px;
+  left: 207px;
+  rotate: -70 deg!important;
+  
+}
+
+
+#post-112 > div > div.wp-block-group.contact.is-layout-constrained.wp-block-group-is-layout-constrained > h1{
+  width: 680px;
+height: 48px;
+top: 266px;
+left: 380px;
+font-family: Syne;
+font-weight: 800;
+font-size: 38px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+text-transform: uppercase;
+color: #D2776A;
+
+}
+#post-112 > div > div.wp-block-group.contact.is-layout-constrained.wp-block-group-is-layout-constrained > p{
+  width: 669px;
+  height:100px;
+  top: 339px;
+  left: 386px;
+  font-family: Syne;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center !important;
+  vertical-align: middle;
+  color: #000000;}
+  
+  
+  #post-112 > div > h2{
+  width: 139px;
+  height: 36px;
+  top: 555px;
+  left: 650px;  
+  font-family: Syne;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: black;
+  margin-top: 40px;
+  
+}
+    
+/* Conteneur général */
+#post-112 > div > div.wp-block-group.team.is-layout-grid.wp-container-core-group-is-layout-8.wp-block-group-is-layout-grid{
+  width: 1440;
+  height: 554;
+  top: 416px;
+  left: -2px;
+  ;
+}
+
+
+/* Conteneur des membres */
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+}
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div.wp-block-group.team_img.wp-container-content-69bc4bdf.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div{
+gap:90px;
+}
+/* Chaque membre */
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div > div > div:nth-child(1){
+
+  align-items: center;
+}
+
+/* Image ronde */
+
+
+team_img1 img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+
+}
+
+
+/* Nom du membre */
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div > div > div:nth-child(1) > h3{
+  width: 91;
+  height: 24;
+  top: 830px;
+  left: 350px;
+  font-family: Syne;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #000000;
+margin-top: 10px;
+
+}
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div.wp-block-group.team_img.wp-container-content-69bc4bdf.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div > div:nth-child(2) > h3{
+  width: 91;
+  height: 24;
+  top: 830px;
+  left: 350px;
+  font-family: Syne;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #000000;
+margin-top: 10px;
+}
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div.wp-block-group.team_img.wp-container-content-69bc4bdf.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div > div:nth-child(3) > h3{
+  width: 91;
+  height: 24;
+  top: 830px;
+  left: 350px;
+  font-family: Syne;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #000000;
+margin-top: 10px;
+}
+
+/* Métier */
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div > div > div:nth-child(1) > p {
+  width: 41;
+  height: 24;
+  top: 865px;
+  left: 375px;
+  font-family: Syne;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #000000;    
+}
+
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div.wp-block-group.team_img.wp-container-content-69bc4bdf.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div > div:nth-child(2) > p {
+  width: 41;
+  height: 24;
+  top: 865px;
+  left: 375px;
+  font-family: Syne;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #000000;
+}
+
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div.wp-block-group.team_img.wp-container-content-69bc4bdf.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div > div:nth-child(3) > p{
+  width: 41;
+  height: 24;
+  top: 865px;
+  left: 375px;
+  font-family: Syne;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #000000;
+}
+#post-112 > div > div.wp-block-group.team.is-layout-constrained.wp-block-group-is-layout-constrained > div.wp-block-group.team_img.wp-container-content-2.is-vertical.is-layout-flex.wp-container-core-group-is-layout-6.wp-block-group-is-layout-flex > div{
+  gap: 130px;
+}
+
+.flower2 img {
+  position: absolute;
+  right: 220px;
+  bottom: 142px;
+  transform: translate(50%, 50%);
+  z-index: 1;
+  width: 15%;
+
+
+
+
+}
+
+
+
+
+.tableau_div{
+ 
+      width: 100% !important;
+    background: url("/wp-content/uploads/2025/04/Frame-e1744646191123.png") repeat-x center bottom var(--color-background);
+
+    
+   
+  padding-bottom: 120px !important;}
+
+
+
+
+
+  #post-112 > div > div.wp-block-group.tableau_div.is-layout-constrained.wp-block-group-is-layout-constrained > figure > img {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+
+    right: 0px;
+    bottom: 0px;
+    transform: translate(50%, 50%);
+    z-index: 1;
+    width: 15%;
+    margin-bottom: -20px;}
+
+
+.entry-content[data-ast-blocks-layout] > * {
+  max-width: 100%;
+  
+}
+
+
+#post-112 > div > div.wp-block-group.tableau_div.is-layout-constrained.wp-block-group-is-layout-constrained > h2{
+  width: 256px;
+height: 36px;
+top: 1036px;
+left: 591px;
+font-family: Syne;
+font-weight: 700;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: black;
+background-color: var(--color-background);
+margin-top: -20px !important;
+margin-bottom: 44px;
+}
+
+
+
+#post-112 > div > div.wp-block-group.is-vertical.is-layout-flex.wp-container-core-group-is-layout-9.wp-block-group-is-layout-flex{
+  display: flex;
+  flex-direction: column;
+  align-items: center !important;
+}
+
+
+#post-112 > div > div.wp-block-group.tableau.is-layout-constrained.wp-block-group-is-layout-constrained > h2{
+  width: 256px!important;
+  height: 36px!important;
+  top: 1036px;
+  left: 591px;
+  font-family: Syne;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #000000;
+}
+
+/* Centrage du titre */
+#post-112 > div > div.wp-block-group.tableau_div.is-layout-constrained.wp-block-group-is-layout-constrained > h2 {
+  width: 256px;
+  height: 36px;
+  font-family: Syne;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 100%;
+  text-align: center;
+  color: black;
+  background-color: var(--color-background);
+  margin: -20px auto 25px auto; /* Centrage horizontal avec auto */
+}
+
+/* Centrage du conteneur flex */
+#post-112 > div > div.wp-block-group.is-vertical.is-layout-flex.wp-container-core-group-is-layout-9.wp-block-group-is-layout-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Ajout du centrage vertical */
+  width: 100%;
+}
+
+/* Style du titre du tableau */
+#post-112 > div > div.wp-block-group.tableau.is-layout-constrained.wp-block-group-is-layout-constrained > h2 {
+  width: 256px;
+  height: 36px;
+  font-family: Syne;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 100%;
+  text-align: center;
+  color: #000000;
+  margin: 0 auto; /* Centrage horizontal */
+}
+
+/* Centrage du div tableau */
+.tableau_div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+/* Centrage du conteneur du bouton submit */
+.wpforms-submit-container {
+  text-align: center;
+  width: 100%;
+}
+
+/* Style des champs du formulaire */
+#wpforms-291-field_4-container,
+#wpforms-291-field_2-container {
+  width: 500px;
+  border-radius: 7px;
+  margin: -18px 110px; /* Centrage horizontal */
+}
+
+#wpforms-291-field_3-container {
+  width: 301px;
+  border-radius: 7px;
+  margin: 0 110px; /* Centrage horizontal */; 
+  }
+
+ 
+
+
+/* Style du bouton submit */
+#wpforms-submit-291 {
+  width: 198px;
+  height: 55px;
+  border-style: none;
+  background-color: #e0b9b4 !important;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 37px;
+  font-family: 'Syne', sans-serif;
+  color: white !important;
+  padding: 9px 50px;
+  text-decoration: none !important;
+  text-transform: none;
+  margin: 0 auto; /* Centrage horizontal */
+  display: block; /* Nécessaire pour le margin auto */
+}
+
+/* Centrage du formulaire WPForms */
+.wpforms-container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+
+
+
+#wpforms-submit-291 {
+  width: 198px;
+  height: 55px;
+  border-style: none;
+  background-color: #e0b9b4 !important;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 37px;
+  font-family: 'Syne', sans-serif;
+  color: white !important;
+  padding: 9px 50px;
+  text-decoration: none !important;
+  text-transform: none; 
+ 
+}
+#post-112 > div > div.wp-block-group.tableau_div.is-layout-constrained.wp-block-group-is-layout-constrained > figure > img {
+  position: absolute;
+  left: 50%;
+  top: 534px;
+  transform: translateX(-50%); 
+  width: 100%;
+  z-index: 2;
+  background-color: var(--color-background);
+}
+
+
+.site-below-footer-wrap[data-section="section-below-footer-builder"]{
+  position: relative;
+ 
+  width: 100%;
+  height: 20px;
+}
+
+
+  /* page Commander */
+
+#post-115 > header{
+  background-color: var(--color-accent);
+
+}
+
+
+
+#post-115 > div{
+  background-color: var(--color-accent);
+  height: 1600px;
+
+}
+
+#post-115 > div > h1{
+  width: 680px;
+  height: 46px;
+  top: 149px;
+  left: 380px;
+  font-family: Syne;
+font-weight: 800;
+font-size: 38px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+text-transform: uppercase;
+color:white;
+margin-bottom: 65px;
+  }
+
+#post-115 > div > hr:nth-child(2){
+  
+
+  max-width: 1290px !important;
+  border: 1px solid #FFFFFF;
+  margin: 0 auto;
+
+  }
+
+  
+
+  #post-115 > div > div.wp-block-group.fruit_commande.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > h2{
+    width: 290px;
+height: 36px;
+top: 304px;
+left: 292px;
+font-family: Syne;
+font-weight: 700;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color:white;
+margin-top: 10px;
+
+  }
+
+  #post-115 > div > div.wp-block-group.fruit_commande.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex
+
+    {
+      max-width: 1388px !important;
+      display: grid;
+      grid-template-columns: repeat(4);
+      gap: 39px;
+      justify-content: center;
+    
+    }
+  
+
+
+    #post-115 > div > div.wp-block-group.fruit_commande.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div > div.wp-block-group.case_fraise.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > h3{
+    width: 144px;
+    height: 28px;
+    font-family: Syne;
+font-weight: 800;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #FFFFFF;
+text-transform: uppercase;
+white-space: nowrap;
+z-index: 1;
+position: absolute;
+top: 477px;
+left: 234px;
+}
+
+
+
+.selection_commande input{
+width: 60px!important;
+
+  
+}
+
+#wpforms-submit-311{
+  display: none;
+}
+
+
+#post-115 > div > div.wp-block-group.fruit_commande.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div > div.wp-block-group.case_pamplemousse.is-vertical.is-content-justification-center.is-layout-flex.wp-container-core-group-is-layout-829f9e33.wp-block-group-is-layout-flex > h3{
+    width: 350px!important;
+    height: 28px;
+    font-family: Syne;
+    font-weight: 800;
+    font-size: 41px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    z-index: 1;
+    position: absolute;
+    left: 509px;
+    top: 455px;
+  }
+
+  #post-115 > div > div.wp-block-group.fruit_commande.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div > div.wp-block-group.case.framboise.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > h3{
+    width: 204px;
+    height: 28px;
+    font-family: Syne;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    z-index: 1;
+    position: absolute;
+    left: 903px;
+    top: 455px;
+  }
+
+
+
+  #post-115 > div > div.wp-block-group.fruit_commande.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > div > div.wp-block-group.case_citron.is-vertical.is-layout-flex.wp-container-core-group-is-layout-8cf370e7.wp-block-group-is-layout-flex > h3{
+    width: 144px;
+    height: 28px;
+    top: 477px;
+    left: 1212px;
+    font-family: Syne;
+    font-weight: 800;
+    font-size: 37px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    white-space: nowrap;
+    z-index: 1;
+    position: absolute;
+
+  }
+
+  #post-115 > div > hr:nth-child(4){
+    max-width: 1290px !important;
+    border: 1px solid #FFFFFF;
+    margin: 0 auto;
+  }
+
+  #post-115 > div > div.wp-block-group.is-nowrap.is-layout-flex.wp-container-core-group-is-layout-ad2f72ca.wp-block-group-is-layout-flex > hr{
+    height: 500px;
+    border: 1px solid #FFFFFF;
+    margin: 0 auto;
+  }
+
+  #post-115 > div > div.wp-block-columns.livraison.is-layout-flex.wp-container-core-columns-is-layout-9d6595d7.wp-block-columns-is-layout-flex > div > div > div.wp-block-group.livraison.is-nowrap.is-layout-flex.wp-container-core-group-is-layout-ad2f72ca.wp-block-group-is-layout-flex > hr{
+    height: 500px;
+    border: 1px solid #FFFFFF;
+    margin: 0 auto;
+  }
+
+  #post-115 > div > div.wp-block-columns.livraison.is-layout-flex.wp-container-core-columns-is-layout-9d6595d7.wp-block-columns-is-layout-flex > div{
+    align-items: center;
+  }
+
+  #post-115 > div > div.wp-block-columns.livraison.is-layout-flex.wp-container-core-columns-is-layout-9d6595d7.wp-block-columns-is-layout-flex > div > h4{
+
+font-family: Syne;
+font-weight: 700;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: white;
+padding-left:154px;
+
+
+
+  }
+
+  
+
+
+
+
+  #post-115 > div > div.wp-block-columns.are-vertically-aligned-center.livraison.is-layout-flex.wp-container-core-columns-is-layout-9d6595d7.wp-block-columns-is-layout-flex > div > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-9d6595d7.wp-block-columns-is-layout-flex > div > h4{
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: white;}
+
+#wpforms-291{
+  background: url(/wp-content/uploads/2025/04/Group-16.png) no-repeat bottom 25px left 25px;
+ 
+  z-index: 1;
+}
+
+
+
