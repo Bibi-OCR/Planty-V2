@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Astra package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 08:45:00+0000\n"
+"PO-Revision-Date: 2025-06-29 08:21:29+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,6 @@ msgstr "Le thème WordPress Astra est ultra-rapide et hautement personnalisable.
 #. Theme Name of the theme
 #: style.css admin/includes/class-astra-menu.php:162
 #: inc/lib/class-astra-nps-notice.php:108
-#: admin/assets/build/dashboard-app.js:15
 #, gp-priority: high
 msgid "Astra"
 msgstr "Astra"
@@ -58,10 +57,6 @@ msgstr "Dites adieu aux commandes trop lentes - stimulez vos ventes grâce à un
 msgid "Modern Cart: A smarter way to sell"
 msgstr "Panier moderne : Une façon plus intelligente de vendre"
 
-#: inc/lib/bsf-analytics/class-bsf-analytics.php:238
-msgid "Help us improve %1$s and our other products!<br><br>With your permission, we'd like to collect <strong>non-sensitive information</strong> from your website — like your PHP version and which features you use — so we can fix bugs faster, make smarter decisions, and build features that actually matter to you. <em>No personal info. Ever.</em>"
-msgstr "Aidez-nous à améliorer %1$s et nos autres produits !<br><br>Avec votre permission, nous aimerions collecter des <strong>informations non sensibles</strong> de votre site - comme votre version de PHP et les fonctionnalités que vous utilisez - afin que nous puissions corriger les bogues plus rapidement, prendre des décisions plus intelligentes et développer des fonctionnalités qui vous intéressent vraiment. <em>Aucune information personnelle. Jamais.</em>"
-
 #: inc/customizer/class-astra-customizer.php:707
 msgid "This request is only allowed in the Customizer screen."
 msgstr "Cette requête n’est autorisée que dans l’écran de la personnalisation."
@@ -77,6 +72,10 @@ msgstr "Étendez Elementor avec des widgets premium."
 #: admin/includes/class-astra-menu.php:960
 msgid "Sell products, services, subscriptions & more."
 msgstr "Vendez des produits, des services, des abonnements et plus encore."
+
+#: inc/lib/bsf-analytics/class-bsf-analytics.php:238
+msgid "Help us improve %1$s and our other products!<br><br>With your permission, we'd like to collect <strong>non-sensitive information</strong> from your website — like your PHP version and which features you use — so we can fix bugs faster, make smarter decisions, and build features that actually matter to you. <em>No personal info. Ever.</em>"
+msgstr "Aidez-nous à améliorer %1$s et nos autres produits !<br><br>Avec votre permission, nous aimerions collecter des <strong>informations non sensibles</strong> de votre site - comme votre version de PHP et les fonctionnalités que vous utilisez - afin que nous puissions corriger les bogues plus rapidement, prendre des décisions plus intelligentes et développer des fonctionnalités qui vous intéressent vraiment. <em>Aucune information personnelle. Jamais.</em>"
 
 #: inc/markup-extras.php:875
 msgid "Search button"
@@ -8419,7 +8418,8 @@ msgid "Note:"
 msgstr "Note :"
 
 #: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:98
-#: admin/assets/theme-builder/build/index.js:1
+#: admin/assets/theme-builder/build/index.js:61093
+#: admin/assets/theme-builder/build/index.js:61223
 msgid "404 Page"
 msgstr "Page 404"
 
@@ -8612,7 +8612,7 @@ msgstr "Activer la couleur de marque au survol"
 #: admin/includes/class-astra-theme-builder-free.php:151
 #: admin/includes/class-astra-theme-builder-free.php:152
 #: admin/assets/build/dashboard-app.js:15
-#: admin/assets/theme-builder/build/index.js:1
+#: admin/assets/theme-builder/build/index.js:60268
 msgid "Site Builder"
 msgstr "Constructeur de site"
 
@@ -8629,6 +8629,20 @@ msgstr "Couleur du logo"
 #: inc/customizer/configurations/builder/header/configs/site-identity.php:77
 msgid "Use it with transparent images for optimal results."
 msgstr "Utilisez-le avec des images transparentes pour un résultat optimal."
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:72
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:71
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:79
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:71
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:79
+#: inc/metabox/class-astra-elementor-editor-settings.php:322
+#: inc/metabox/class-astra-meta-boxes.php:303
+#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:128
+#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:108
+#: inc/modules/posts-structures/customizer/class-astra-posts-special-archive-structures-configs.php:672
+#: inc/metabox/extend-metabox/build/index.js:1
+msgid "Container Style"
+msgstr "Style de conteneur"
 
 #: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:48
 msgid "Global Sidebar Style"
@@ -8648,20 +8662,6 @@ msgstr "Style de colonne latérale pour les cours/leçons"
 #: inc/modules/related-posts/customizer/class-astra-related-posts-configs.php:766
 msgid "Narrow"
 msgstr "Étroit"
-
-#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:72
-#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:71
-#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:79
-#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:71
-#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:79
-#: inc/metabox/class-astra-elementor-editor-settings.php:322
-#: inc/metabox/class-astra-meta-boxes.php:303
-#: inc/modules/posts-structures/customizer/class-astra-posts-archive-structures-configs.php:128
-#: inc/modules/posts-structures/customizer/class-astra-posts-single-structures-configs.php:108
-#: inc/modules/posts-structures/customizer/class-astra-posts-special-archive-structures-configs.php:672
-#: inc/metabox/extend-metabox/build/index.js:1
-msgid "Container Style"
-msgstr "Style de conteneur"
 
 #: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:70
 #: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:72
@@ -8943,12 +8943,14 @@ msgid "Custom Post Types"
 msgstr "Types de publication personnalisée"
 
 #: inc/modules/posts-structures/customizer/class-astra-posts-structures-configs.php:113
-#: admin/assets/theme-builder/build/index.js:1
+#: admin/assets/theme-builder/build/index.js:61030
+#: admin/assets/theme-builder/build/index.js:61216
 msgid "Archive"
 msgstr "Archives"
 
 #: inc/modules/posts-structures/customizer/class-astra-posts-structures-configs.php:122
-#: admin/assets/theme-builder/build/index.js:1
+#: admin/assets/theme-builder/build/index.js:60977
+#: admin/assets/theme-builder/build/index.js:61209
 msgid "Single"
 msgstr "Publication"
 
@@ -9045,7 +9047,7 @@ msgid "Sorry, you cannot list resources."
 msgstr "Désolé, vous ne pouvez pas lister les ressources."
 
 #: admin/includes/class-astra-menu.php:226
-#: admin/assets/theme-builder/build/index.js:1
+#: admin/assets/theme-builder/build/index.js:60264
 msgid "Dashboard"
 msgstr "Tableau de bord"
 
@@ -9258,7 +9260,7 @@ msgstr "Options de typographie étendues"
 #: inc/core/class-astra-admin-settings.php:289
 #: inc/metabox/class-astra-elementor-editor-settings.php:536
 #: admin/assets/build/dashboard-app.js:1 admin/assets/build/dashboard-app.js:15
-#: admin/assets/theme-builder/build/index.js:1
+#: admin/assets/theme-builder/build/index.js:1483
 #: admin/assets/utils/helpers.js:107
 #: inc/metabox/extend-metabox/build/index.js:1
 msgid "Upgrade Now"
@@ -11199,7 +11201,7 @@ msgstr "Détails »"
 #: admin/includes/class-astra-menu.php:437
 #: admin/assets/build/dashboard-app.js:15
 msgid "Starter Templates"
-msgstr "Modèles de démarrage"
+msgstr "Starter Templates"
 
 #: inc/lib/astra-notices/class-astra-notices.php:146
 msgid "WordPress Nonce not validated."
@@ -11687,20 +11689,20 @@ msgstr "g a"
 #: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:952
 #: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:980
 #: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1007
-#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1343
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1348
 msgctxt "yearly archives date format"
 msgid "Y"
 msgstr "Y"
 
 #: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:924
 #: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:981
-#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1347
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1352
 msgctxt "monthly archives date format"
 msgid "F"
 msgstr "F"
 
 #: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:925
-#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1351
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1356
 msgctxt "daily archives date format"
 msgid "j"
 msgstr "j"
@@ -11784,7 +11786,6 @@ msgstr "Désactivation"
 #: admin/includes/class-astra-menu.php:338
 #: admin/includes/class-astra-theme-builder-free.php:105
 #: inc/core/class-astra-admin-settings.php:146
-#: admin/assets/build/dashboard-app.js:12
 msgid "Activate"
 msgstr "Activer"
 
@@ -11864,10 +11865,6 @@ msgstr "Taille de bordure"
 msgid "Button Text"
 msgstr "Texte du bouton"
 
-#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:203
-msgid "Button Link"
-msgstr "Lien du bouton"
-
 #: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:707
 #: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:235
 #: inc/customizer/configurations/builder/footer/configs/above-footer.php:207
@@ -11880,6 +11877,10 @@ msgstr "Lien du bouton"
 #: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:348
 msgid "Border Color"
 msgstr "Couleur de bordure"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:203
+msgid "Button Link"
+msgstr "Lien du bouton"
 
 #: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:339
 #: inc/metabox/class-astra-meta-boxes.php:982
@@ -13389,7 +13390,8 @@ msgstr "Conteneur"
 #: inc/customizer/configurations/builder/footer/configs/footer-builder.php:138
 #: inc/customizer/configurations/builder/footer/configs/footer-builder.php:171
 #: admin/assets/build/dashboard-app.js:10
-#: admin/assets/theme-builder/build/index.js:1
+#: admin/assets/theme-builder/build/index.js:60795
+#: admin/assets/theme-builder/build/index.js:61188
 msgid "Footer"
 msgstr "Pied de page"
 
@@ -13781,7 +13783,8 @@ msgstr "Colonne latérale principale"
 #: inc/customizer/class-astra-customizer-register-sections-panels.php:80
 #: inc/customizer/configurations/builder/header/configs/primary-header.php:34
 #: inc/widgets.php:107 admin/assets/build/dashboard-app.js:10
-#: admin/assets/theme-builder/build/index.js:1
+#: admin/assets/theme-builder/build/index.js:60752
+#: admin/assets/theme-builder/build/index.js:61181
 msgid "Header"
 msgstr "En-tête"
 

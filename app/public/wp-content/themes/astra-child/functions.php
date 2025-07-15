@@ -22,20 +22,18 @@ endif;
 add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
 
 function planty_admin_link($items, $args) {
-    if (is_user_logged_in() && current_user_can('administrator') && $args->theme_location == 'primary') {
+    if (is_user_logged_in() && current_user_can('administrator') && $args->theme_location === 'primary') {
         $admin_link = '<li class="menu-item menu-item-admin"><a href="' . admin_url() . '" class="menu-link">Admin</a></li>';
 
+    
         $menu_items = explode('</li>', $items);
-
         array_splice($menu_items, 1, 0, $admin_link);
-
         $items = implode('</li>', $menu_items);
-
-        $items .= '</li>';
     }
     return $items;
 }
 add_filter('wp_nav_menu_items', 'planty_admin_link', 10, 2);
+
 
 function planty_fonts() {
     wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700&display=swap');
