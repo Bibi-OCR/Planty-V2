@@ -800,15 +800,11 @@ p{
   margin-left: 90px;
 }
 
-#wpforms-482-field_1{
-
-  width: 54px;
-}
 
 #wpforms-482-field_1-container {
   display: flex;
-  justify-content: center; /* centre horizontalement */
-  align-items: center;     /* centre verticalement */
+  justify-content: center;
+  align-items: center;    
 }
 
 
@@ -818,16 +814,8 @@ p{
 display: none;
 }
 
-#wpforms-submit-482:hover{
 
-  background-color: #C02E44
-}
-
-
-
-
-
-  #post-115 > div > div > div.elementor-element.elementor-element-8391a86.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded > div > div > div > div > a{
+#post-115 > div > div > div.elementor-element.elementor-element-8391a86.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded > div > div > div > div > a{
 
     margin-top: 50px;
     margin-bottom: 50px;
@@ -921,28 +909,7 @@ vertical-align: middle;
     background-color: #ccc;
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-    #Formulaire-commande .e-con-inner {
-        padding: 20px 10px;
-        gap: 12px;
-    }
 
-    #formulaire-info {
-        margin-right: 5px;
-        flex: 0 0 48%;
-        max-width: none;
-    }
-
-    #formulaire-livraison {
-        flex: 0 0 48%;
-        max-width: none;
-    }
-
-    #formulaire-info::after {
-        right: -8px;
-    }
-}
 
 
   
@@ -954,10 +921,4 @@ vertical-align: middle;
     }
 
 
-    @media only screen and (max-width: 600px) {
-      div.wpforms-container .wpforms-form
-      .wpforms-field:not(.wpforms-field-phone):not(.wpforms-field-select-style-modern):not(.wpforms-field-radio):not(.wpforms-field-checkbox):not(.wpforms-field-layout):not(.wpforms-field-repeater) {
-        overflow-x: visible !important;
-      }
-    }
 
