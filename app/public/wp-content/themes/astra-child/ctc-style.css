@@ -873,40 +873,21 @@ vertical-align: middle;
 
 }
 
-#Formulaire-commande .e-con-inner {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 20px;              /* Espace total entre les colonnes */
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 40px 20px;
-    flex-wrap: nowrap;
+
+#Formulaire-commande::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-0.5px); /* pour bien centrer le séparateur */
+  width: 1px;
+  height: 79%;
+  background-color: white; /* couleur du séparateur */
 }
 
-/* Colonne Informations décalée à droite */
-#formulaire-info {
-    position: relative;
-    flex: 0 0 45%;
-    max-width: 500px;
-    margin-right: 10px;       /* Décalage vers la droite pour symétrie */
-}
 
-/* Colonne Livraison */
-#formulaire-livraison {
-    flex: 0 0 45%;
-    max-width: 500px;
-}
-
-/* Séparateur vertical */
-#formulaire-info::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: -15px;             /* Placé à droite de "Informations" */
-    height: 100%;
-    width: 2px;
-    background-color: #ccc;
+#wpforms-submit-469{
+  display: none;
 }
 
 
