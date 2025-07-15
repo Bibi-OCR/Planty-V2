@@ -844,68 +844,16 @@ p{
     background-color: #C02E44;
   }
 
+#separateur2{
 
-  .form-wrapper {
+  background-color: var(--color-accent);
+}
 
-    display: flex;
-    justify-content: center;
-    align-items: stretch;
-    max-width: 1000px;
-    margin: 40px auto;
-    border-radius: 10px;
-    gap: 40px;
-    flex-wrap: wrap;
-  }
+#Formulaire-commande{
 
-  .form-column {
-
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    min-width: 250px;
-  }
-
-  .form-column h2 {
-
-    color: white;
-    margin-bottom: 20px;
-  }
-
-  .form-column label {
-
-    color: white;
-    margin-bottom: 6px;
-    font-size: 14px;
-  }
-
-  .form-column input {
-
-    padding: 15px;
-    border-radius: 6px;
-    border: none;
-    margin-bottom: 20px;
-    font-size: 16px;
-  }
-
-
-  .form-separator {
-
-    width: 1.5px;
-    background-color: white;
-    height: auto;
-  }
-
-
-  .form-separator {
-    min-height: 100%;}
-
-    @media (max-width: 600px) {
-      .form-separator {
-        display: none;
-      }
-    }
-
-
+  background-color: var(--color-accent);
+}
+  
     @media screen and (max-width: 1024px) {
       #ast-mobile-header .mobile-menu-toggle-icon svg {
         fill: green !important;
