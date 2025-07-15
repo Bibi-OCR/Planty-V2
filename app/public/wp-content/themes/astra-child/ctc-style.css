@@ -853,6 +853,43 @@ p{
 
   background-color: var(--color-accent);
 }
+
+#informations h4{
+
+font-family: Syne;
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+line-height: 100%;
+color: white;
+vertical-align: middle;
+
+}
+
+#livraison h4{ 
+
+font-family: Syne;
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+line-height: 100%;
+color: white;
+vertical-align: middle;
+
+}
+
+#formulaire-info label{
+
+  color: white;
+
+}
+
+#formulaire-livraison label{
+
+  color: white;
+
+}
+
   
     @media screen and (max-width: 1024px) {
       #ast-mobile-header .mobile-menu-toggle-icon svg {
