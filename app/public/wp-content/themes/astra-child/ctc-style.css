@@ -820,18 +820,28 @@ vertical-align: middle;
 
 }
 
-#formulaire-info label{
+#group-1 label{
 
   color: white;
 
 }
 
-#formulaire-livraison label{
+#group-2 label{
 
   color: white;
 
 }
 
+#html-4.forminator-field-html {
+  display: flex;
+  align-items: stretch;
+  justify-content: center; 
+  width: 1px;
+  background-color: white;
+  height: 1px;
+  margin: auto;
+  transform: rotate(90deg);
+}
 
 
 #forminator-module-1380 > div.forminator-row.forminator-row-last > div > div > button {
