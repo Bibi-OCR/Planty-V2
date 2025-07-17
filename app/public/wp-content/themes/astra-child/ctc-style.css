@@ -242,28 +242,28 @@ p{
 
 #fraise {
 
-  background: url("http://localhost:10028/wp-content/uploads/2025/04/jeremy-bezanger-0QgbyZdhX7k-unsplash-1.png") no-repeat center center ;
+  background: url("/wp-content/uploads/2025/04/jeremy-bezanger-0QgbyZdhX7k-unsplash-1.png") no-repeat center center ;
 
 }
 
 
 
 #pamplemousse   {
-  background: url("http://localhost:10028/wp-content/uploads/2025/07/estudio-bloom-tOitjphtIXU-unsplash-1.png") no-repeat center center ;
+  background: url("/wp-content/uploads/2025/07/estudio-bloom-tOitjphtIXU-unsplash-1.png") no-repeat center center ;
 
 }
 
 
 
 #framboise   {
-  background: url("http://localhost:10028/wp-content/uploads/2025/07/rodion-kutsaev-4k8xEFW4_3Q-unsplash-1.png") no-repeat center center ;
+  background: url("/wp-content/uploads/2025/07/rodion-kutsaev-4k8xEFW4_3Q-unsplash-1.png") no-repeat center center ;
 
 }
 
 
 
 #citron   {
-  background: url("http://localhost:10028/wp-content/uploads/2025/04/estudio-bloom-ezqnxsqUZ80-unsplash-1.png") no-repeat center center ;
+  background: url("/wp-content/uploads/2025/04/estudio-bloom-ezqnxsqUZ80-unsplash-1.png") no-repeat center center ;
 
 }
 @media (max-width: 767px) {
@@ -630,7 +630,7 @@ p{
   left: -47px;
   width: 100px;
   height: 100px;
-  background: url("http://localhost:10028/wp-content/uploads/2025/04/Group-16.png") no-repeat center;
+  background: url("/wp-content/uploads/2025/04/Group-16.png") no-repeat center;
   background-size: contain;
   z-index: -1;
   opacity: 0.95;
@@ -727,35 +727,6 @@ p{
 
 }
 
-/* Breakpoint tablette */
-@media screen and (max-width: 1350px) {
-  #fruit-commande {
-    grid-template-columns: repeat(2, 1fr);
-    justify-content: center;    
-    justify-items: center;        
-    column-gap: 30px;            
-    row-gap: 20px;               
-    padding-left: 20px;
-  }
-}
-
-/* Breakpoint mobile */
-@media screen and (max-width: 768px) and (min-width: 320px) {
-  #fruit-commande {
-    display: grid;
-    grid-template-columns: 1fr;
-    place-items: center;
-    row-gap: 20px;
-    width: 100%;
-    max-width: 100%;
-    margin: 0 auto;
-    box-sizing: border-box;
-  }
-}
-
-
-
-
 
 
 #fruit-commande h3 {
@@ -777,16 +748,16 @@ p{
 }
 
 #fraise2 h3 {
-  background-image: url("http://localhost:10028/wp-content/uploads/2025/07/jeremy-bezanger-0QgbyZdhX7k-unsplash-1.png");
+  background-image: url("/wp-content/uploads/2025/07/jeremy-bezanger-0QgbyZdhX7k-unsplash-1.png");
 }
 #pamplemousse2 h3 {
-  background-image: url("http://localhost:10028/wp-content/uploads/2025/07/estudio-bloom-tOitjphtIXU-unsplash-1.png");
+  background-image: url("/wp-content/uploads/2025/07/estudio-bloom-tOitjphtIXU-unsplash-1.png");
 }
 #framboise2 h3 {
-  background-image: url("http://localhost:10028/wp-content/uploads/2025/07/rodion-kutsaev-4k8xEFW4_3Q-unsplash-1.png");
+  background-image: url("/wp-content/uploads/2025/07/rodion-kutsaev-4k8xEFW4_3Q-unsplash-1.png");
 }
 #citron2 h3 {
-  background-image: url("http://localhost:10028/wp-content/uploads/2025/07/estudio-bloom-ezqnxsqUZ80-unsplash-1.png");
+  background-image: url("/wp-content/uploads/2025/07/estudio-bloom-ezqnxsqUZ80-unsplash-1.png");
 }
 
 #post-115 > div > div > div.elementor-element.elementor-element-2f50424.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded{
@@ -801,43 +772,31 @@ p{
 }
 
 
-#wpforms-482-field_1-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;    
-}
 
 
 
-#wpforms-submit-482{
-
-display: none;
-}
 
 
-#post-115 > div > div > div.elementor-element.elementor-element-8391a86.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded > div > div > div > div > a{
+
+
+#forminator-module-1380 > div:nth-child(2){
 
     margin-top: 50px;
     margin-bottom: 50px;
-    background-color: var(--color-main);
+    background-color: var(--color-accent);
   }
 
-  #post-115 > div > div > div.elementor-element.elementor-element-8391a86.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded > div > div > div > div > a:hover{
 
-    background-color: #C02E44;
-  }
 
-#separateur2{
 
-  background-color: var(--color-accent);
-}
 
-#Formulaire-commande{
+#post-115 > div > div > div.elementor-element.elementor-element-8c79d62.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded{
 
   background-color: var(--color-accent);
+ 
 }
 
-#informations h4{
+#html-1 h4{
 
 font-family: Syne;
 font-weight: 700;
@@ -849,7 +808,7 @@ vertical-align: middle;
 
 }
 
-#livraison h4{ 
+#html-2 h4{ 
 
 font-family: Syne;
 font-weight: 700;
@@ -874,22 +833,30 @@ vertical-align: middle;
 }
 
 
-#Formulaire-commande::before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 0;
-  transform: translateX(-0.5px); /* pour bien centrer le séparateur */
-  width: 1px;
-  height: 79%;
-  background-color: white; /* couleur du séparateur */
+
+#forminator-module-1380 > div.forminator-row.forminator-row-last > div > div > button {
+  width: 100%;
+  max-width: 200px;
+  height: 55px;
+  margin: 50px auto 0 auto;
+  display: block;
+  background-color: #e0b9b4 !important;
+  color: white !important;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 37px;
+  font-family: 'Syne', sans-serif;
+  padding: 9px 50px;
+  border:5px;
+  text-transform: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
 
-#wpforms-submit-469{
-  display: none;
+#forminator-module-1380 > div.forminator-row.forminator-row-last > div > div > button:hover {
+  background-color:#c02e44 !important;
 }
-
 
 
 
