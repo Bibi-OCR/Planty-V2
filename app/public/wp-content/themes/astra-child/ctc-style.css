@@ -832,16 +832,27 @@ vertical-align: middle;
 
 }
 
-#html-4.forminator-field-html {
+
+
+.forminator-row {
   display: flex;
-  align-items: stretch;
-  justify-content: center; 
-  width: 1px;
-  background-color: white;
-  height: 1px;
-  margin: auto;
-  transform: rotate(90deg);
+  gap: 0;
 }
+
+#group-1 {
+  border-right: 2px solid white;
+  padding-right: 20px;          
+  margin-right: 20px;           
+  box-sizing: border-box;  
+  flex: 1;                      
+}
+
+#group-2 {
+  flex: 1;
+}
+
+
+
 
 
 #forminator-module-1380 > div.forminator-row.forminator-row-last > div > div > button {
