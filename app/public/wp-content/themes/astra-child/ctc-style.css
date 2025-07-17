@@ -718,15 +718,19 @@ p{
 
 #fruit-commande {
 
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
+  display: flex;
+ 
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
   background-color: var(--color-accent);
-  margin: 0 auto;
+
 
 }
 
+#fruit-commande > div > div {
+  align-items: center;
+}
 
 
 #fruit-commande h3 {
@@ -745,6 +749,19 @@ p{
   z-index: 1;
   background-size: cover;
   background-position: center;
+}
+
+#fruit-commande > div > div.elementor-element.elementor-element-17c6f4d.e-con-full.e-flex.wpr-particle-no.wpr-jarallax-no.wpr-parallax-no.wpr-sticky-section-no.e-con.e-child > div {
+
+  width: 263px;
+  
+}
+
+
+#wpforms-482-field_1-container{ 
+
+  display: flex;
+  justify-content: center;
 }
 
 #fraise2 h3 {
@@ -773,7 +790,10 @@ p{
 
 
 
+#wpforms-submit-482{
 
+  display: none;
+}
 
 
 
@@ -790,7 +810,7 @@ p{
 
 
 
-#post-115 > div > div > div.elementor-element.elementor-element-8c79d62.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded{
+#post-115 > div > div > div.elementor-element.elementor-element-8c79d62.e-con-full.e-flex.wpr-particle-no.wpr-jarallax-no.wpr-parallax-no.wpr-sticky-section-no.e-con.e-parent.e-lazyloaded{
 
   background-color: var(--color-accent);
  
@@ -888,6 +908,7 @@ vertical-align: middle;
 
       }
     }
+
 
 
 
