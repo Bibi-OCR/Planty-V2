@@ -160,7 +160,7 @@ li.menu-item a {
 
   #left-flower,
   #right-flower {
-    display: none;
+  display: none;
   }
 }
 
@@ -751,11 +751,10 @@ p{
   background-position: center;
 }
 
-#fruit-commande > div > div.elementor-element.elementor-element-17c6f4d.e-con-full.e-flex.wpr-particle-no.wpr-jarallax-no.wpr-parallax-no.wpr-sticky-section-no.e-con.e-child > div {
 
-  width: 263px;
-  
-}
+
+
+
 
 
 #wpforms-482-field_1-container{ 
@@ -765,16 +764,16 @@ p{
 }
 
 #fraise2 h3 {
-  background-image: url("/wp-content/uploads/2025/07/jeremy-bezanger-0QgbyZdhX7k-unsplash-1.png");
+  background-image: url("/wp-content/uploads/2025/07/jeremy-bezanger-0QgbyZdhX7k-unsplash-1.png"); width: 263px;
 }
 #pamplemousse2 h3 {
-  background-image: url("/wp-content/uploads/2025/07/estudio-bloom-tOitjphtIXU-unsplash-1.png");
+  background-image: url("/wp-content/uploads/2025/07/estudio-bloom-tOitjphtIXU-unsplash-1.png");width: 263px;
 }
 #framboise2 h3 {
-  background-image: url("/wp-content/uploads/2025/07/rodion-kutsaev-4k8xEFW4_3Q-unsplash-1.png");
+  background-image: url("/wp-content/uploads/2025/07/rodion-kutsaev-4k8xEFW4_3Q-unsplash-1.png");width: 263px;
 }
 #citron2 h3 {
-  background-image: url("/wp-content/uploads/2025/07/estudio-bloom-ezqnxsqUZ80-unsplash-1.png");
+  background-image: url("/wp-content/uploads/2025/07/estudio-bloom-ezqnxsqUZ80-unsplash-1.png");width: 263px;
 }
 
 #post-115 > div > div > div.elementor-element.elementor-element-2f50424.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded{
@@ -783,28 +782,17 @@ p{
 
 }
 
-#post-115 > div > div > div.elementor-element.elementor-element-2f50424.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded > div > div.elementor-element.elementor-element-bc3e1b8.e-con-full.e-flex.e-con.e-child{
-
-  margin-left: 90px;
-}
-
-
-
 #wpforms-submit-482{
 
   display: none;
 }
 
-
-
-
-
 #forminator-module-1380 > div:nth-child(2){
 
-    margin-top: 50px;
-    margin-bottom: 50px;
-    background-color: var(--color-accent);
-  }
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: var(--color-accent);
+}
 
 
 
@@ -818,25 +806,25 @@ p{
 
 #html-1 h4{
 
-font-family: Syne;
-font-weight: 700;
-font-style: Bold;
-font-size: 30px;
-line-height: 100%;
-color: white;
-vertical-align: middle;
+  font-family: Syne;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 30px;
+  line-height: 100%;
+  color: white;
+  vertical-align: middle;
 
 }
 
 #html-2 h4{ 
 
-font-family: Syne;
-font-weight: 700;
-font-style: Bold;
-font-size: 30px;
-line-height: 100%;
-color: white;
-vertical-align: middle;
+  font-family: Syne;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 30px;
+  line-height: 100%;
+  color: white;
+  vertical-align: middle;
 
 }
 
@@ -851,8 +839,6 @@ vertical-align: middle;
   color: white;
 
 }
-
-
 
 .forminator-row {
   display: flex;
@@ -870,10 +856,6 @@ vertical-align: middle;
 #group-2 {
   flex: 1;
 }
-
-
-
-
 
 #forminator-module-1380 > div.forminator-row.forminator-row-last > div > div > button {
   width: 100%;
@@ -900,14 +882,136 @@ vertical-align: middle;
 }
 
 
-
+/* =================================================================== */
+/* Media Queries */
+/* =================================================================== */
   
-    @media screen and (max-width: 1024px) {
-      #ast-mobile-header .mobile-menu-toggle-icon svg {
-        fill: green !important;
+@media screen and (max-width: 1024px) {
+#ast-mobile-header .mobile-menu-toggle-icon svg {
+  fill: green !important;
+  }
+}
 
-      }
-    }
+
+@media (min-width: 1025px) and (max-width: 1179px) {
+#fruit-commande {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  }
+
+#fruit-commande > div {
+  width: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  }
+
+#fruit-commande h3 {
+  width: 100%;
+  max-width: 100%;
+  height: 160px;
+  font-size: 20px;
+  }
+}
+
+
+@media (min-width: 1180px) {
+#fruit-commande {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  }
+
+  #fruit-commande > div {
+  width: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  }
+
+#fruit-commande h3 {
+  width: 100%;
+  max-width: 260px;
+  height: 160px;
+  font-size: 30px;
+  }
+}
+
+
+@media (max-width: 1024px) {
+#fruit-commande {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  }
+
+#fruit-commande > div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  }
+
+#fruit-commande h3 {
+  width: 90%;
+  max-width: 300px;
+  height: 150px;
+  font-size: 19px;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+#post-115 > div > div > div.elementor-element.elementor-element-265b349.e-flex.e-con-boxed.wpr-particle-no.wpr-jarallax-no.wpr-parallax-no.wpr-sticky-section-no.e-con.e-parent.e-lazyloaded > div > div > div > h1 {
+  font-size: 25px;
+  }
+
+#post-115 > div > div > div.elementor-element.elementor-element-9f01822.e-flex.e-con-boxed.wpr-particle-no.wpr-jarallax-no.wpr-parallax-no.wpr-sticky-section-no.e-con.e-parent.e-lazyloaded > div > div > div > h2 {
+  text-align: center;
+  }
+
+#fruit-commande {
+  flex-direction: column;
+  gap: 20px;
+  }
+
+#fruit-commande h3,
+#fraise2 h3,
+#pamplemousse2 h3,
+#framboise2 h3,
+#citron2 h3 {
+  width: 90%;
+  max-width: 300px; 
+  height: 150px;
+  font-size: 20px;
+  margin: 0 auto; 
+  text-align: center; 
+  }
+
+ 
+.forminator-row {
+    flex-direction: column;
+    gap: 30px; 
+  }
+
+#group-1 {
+    border-right: none;
+    padding-right: 0;
+    margin-right: 0;
+  }
+
+
+#forminator-module-1380 > div.forminator-row.forminator-row-last > div > div > button {
+    max-width: 100%;
+    margin-top: 30px;
+  }
+}
 
 
 
