@@ -58,6 +58,14 @@ header{
 #menu-item-122 > a {
 
   color: #000000;
+  size: 16px;
+}
+
+#menu-item-122 > a:hover {
+
+  color: black;
+  font-weight: 600;
+  size: 13px;
 }
 
 #menu-item-124 {
@@ -97,6 +105,12 @@ header{
   display: block;
   padding-left: 40px;
   padding-right: 40px;
+}
+
+#ast-hf-menu-1 > li.menu-item.menu-item-admin > a:hover{
+
+  color: black;
+  font-weight: 600;
 }
 
 /* Centrer le lien Admin dans le menu */
